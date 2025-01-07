@@ -27,4 +27,4 @@ _This text is italicized_
     - Second nested list item
 
 - [ ] hello 1
-- [ ] hello 2
+- [x] hello 2
